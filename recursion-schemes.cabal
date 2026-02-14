@@ -7,7 +7,8 @@ license-file:  LICENSE
 author:        Edward A. Kmett
 maintainer:    "Samuel Gélineau" <gelisam@gmail.com>,
                "Ryan Scott" <ryan.gl.scott@gmail.com>,
-               "Luc Tielen" <luc.tielen@gmail.com>
+               "Luc Tielen" <luc.tielen@gmail.com>,
+               "Erik de Castro Lopo" <erikd@mega-nerd.com>
 stability:     provisional
 homepage:      http://github.com/ekmett/recursion-schemes/
 bug-reports:   http://github.com/ekmett/recursion-schemes/issues
